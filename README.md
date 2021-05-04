@@ -1,4 +1,4 @@
-# danielsthefanoquichepalacios.github.io
+# Daniel Quiche Palacios
 <html> 
 <body style="background-color:#A4FAF7;"><head>
 
