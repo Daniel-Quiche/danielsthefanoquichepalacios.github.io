@@ -7,9 +7,8 @@
 </h1>
 <h2 align="center" style="color:#F3BF0C;font-size:400%;"> <b><i>Daniel Sthefano Quiche Palacios</i></b>
 </h2>
-<p align="justify"style="color:black;font-size:200%;">Mi nombre es Daniel Sthefano Quiche Palacios, aunque prefiero que me llamen Sthefano. Nací en <a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwKrZMjzdg9GLLKE1MzsgHADTvBaw&q=huacho&rlz=1C1SQJL_esPE938PE938&oq=hua&aqs=chrome.1.69i57j46i20i263i433j46i433j0i433j0i131i433j0i433l2j69i60.2136j0j4&sourceid=chrome&ie=UTF-8">Huacho</a>, el 31 de agosto del año 2003, actualmente tengo 17 años. Estudie el nivel Primario y Secundario en la <a href="http://www.inmaculada-huacho.edu.pe/">I.E.P. "Inmaculada Concepción"</a>.</p>
-
-<p align="justify"style="color:black;font-size:200%;">Actualmente estudio la carrera de Computer Science en la Universidad San Ignacio de Loyola <a href="https://www.google.com/search?q=USIL&rlz=1C1SQJL_esPE938PE938&oq=USIL&aqs=chrome.1.69i60j69i59l2j0j69i60l4.3362j0j9&sourceid=chrome&ie=UTF-8">(USIL)</a>. Luego de unas clases, me di cuenta de que era una carrera mucho más fascinante de lo que en un inicio pensaba, puedo decir que fue una de las mejores decisiones que he realizado. </p>
+Mi nombre es Daniel Sthefano Quiche Palacios, aunque prefiero que me llamen Sthefano. Nací en <a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwKrZMjzdg9GLLKE1MzsgHADTvBaw&q=huacho&rlz=1C1SQJL_esPE938PE938&oq=hua&aqs=chrome.1.69i57j46i20i263i433j46i433j0i433j0i131i433j0i433l2j69i60.2136j0j4&sourceid=chrome&ie=UTF-8">Huacho</a>, el 31 de agosto del año 2003, actualmente tengo 17 años. Estudie el nivel Primario y Secundario en la <a href="http://www.inmaculada-huacho.edu.pe/">I.E.P. "Inmaculada Concepción"</a>.
+Actualmente estudio la carrera de Computer Science en la Universidad San Ignacio de Loyola <a href="https://www.google.com/search?q=USIL&rlz=1C1SQJL_esPE938PE938&oq=USIL&aqs=chrome.1.69i60j69i59l2j0j69i60l4.3362j0j9&sourceid=chrome&ie=UTF-8">(USIL)</a>. Luego de unas clases, me di cuenta de que era una carrera mucho más fascinante de lo que en un inicio pensaba, puedo decir que fue una de las mejores decisiones que he realizado.
 <div align="center"><img src="https://pbs.twimg.com/profile_images/1245493639708659712/cNMUXud1_400x400.jpg"; ></div>
 <h2 align="justify" style="color:#F75E17;font-size:300%;"> <b>Hobbies y gustos personales:</b>
 </h2>
