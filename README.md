@@ -19,14 +19,12 @@ Actualmente estudio la carrera de Computer Science en la Universidad San Ignacio
   <li>Mi plato favorito es el <a href="https://www.google.com/search?q=ceviche+de+pescado&rlz=1C1SQJL_esPE938PE938&sxsrf=ALeKk01iPuALUjP_i6Y6cPEzN4OSEKh88w%3A1620074574026&ei=TmCQYNZ4rcHk5Q_hmYCABg&gs_ssp=eJzj4tDP1TfIssg2M2B0YPASSk4ty0zOSFVISVUoSC1OTkzJBwCTZAnd&oq=ceviche+de+&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQsQMyBQguELEDMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BwgAEEcQsAM6BwgAELADEEM6DQguELADEMgDEEMQkwI6CgguELADEMgDEEM6CgguELEDEEMQkwI6BAguEEM6BwgAELEDEEM6CggAEIcCELEDEBQ6BAgAEENKBQg4EgExUPJAWPpPYLZWaAFwAngAgAHeAYgBqgWSAQUwLjQuMZgBAKABAaoBB2d3cy13aXrIAQ_AAQE&sclient=gws-wiz">Ceviche de Pescado</a>, el cual es el plato bandera de nuestro país.
 <h2 align="justify" style="color:#F75E17;font-size:300%;"> <b>Redes sociales y correo:</b>
 </h2>
-<ul align="justify"; style=font-size:140%>
+
   <li> <a href="https://www.facebook.com/sthefano.quichepalacios/">Facebook</a> </li>
     <li> <a href="https://www.instagram.com/sthefano_31/">Instagram</a> </li>
       <li> <a href="https://twitter.com/sthefano_31">Twitter</a> </li>
       <li>Correo electrónico personal: dquich85@gmail.com</li>
         <li> Correo institucional: daniel.quiche@usil.pe </li>
-</ul> 
-<p align="justify"style="color:black;font-size:200%;"></p>
+
 <footer style="color:blue;font-size:150%;"> Computer Science - USIL 2021-1</FOOTER>
-</body>
-</html>
+
