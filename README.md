@@ -1,5 +1,4 @@
 # danielsthefanoquichepalacios.github.io
-!DOCTYPE html>
 <html> 
 <body style="background-color:#A4FAF7;"><head>
 <title>Daniel Sthefano Quiche Palacios</title>
