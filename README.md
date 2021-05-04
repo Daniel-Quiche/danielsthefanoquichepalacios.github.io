@@ -1,4 +1,5 @@
-# <i>Daniel Sthefano Quiche Palacios</i>
+# <h2 style="color:#F3BF0C;font-size:400%;"> <b><i>Daniel Sthefano Quiche Palacios</i></b>
+</h2>
 <html> 
 <body style="background-color:#A4FAF7;"><head>
 
