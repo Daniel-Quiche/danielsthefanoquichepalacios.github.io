@@ -1,12 +1,11 @@
-# Daniel Quiche Palacios
+# Daniel Sthefano Quiche Palacios
 <html> 
 <body style="background-color:#A4FAF7;"><head>
 
 </head>
 <h1 align="center" style="color:white;background-color:blue;font-size:400%;"> MI PRESENTACIÓN
 </h1>
-<h2 align="center" style="color:#F3BF0C;font-size:400%;"> <b><i>Daniel Sthefano Quiche Palacios</i></b>
-</h2>
+
 Ese es mi nombre completo, aunque prefiero que me llamen Sthefano. Nací en <a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwKrZMjzdg9GLLKE1MzsgHADTvBaw&q=huacho&rlz=1C1SQJL_esPE938PE938&oq=hua&aqs=chrome.1.69i57j46i20i263i433j46i433j0i433j0i131i433j0i433l2j69i60.2136j0j4&sourceid=chrome&ie=UTF-8">Huacho</a>, el 31 de agosto del año 2003, actualmente tengo 17 años. Estudie el nivel Primario y Secundario en la <a href="http://www.inmaculada-huacho.edu.pe/">I.E.P. "Inmaculada Concepción"</a>.
 Actualmente estudio la carrera de Computer Science en la Universidad San Ignacio de Loyola <a href="https://www.google.com/search?q=USIL&rlz=1C1SQJL_esPE938PE938&oq=USIL&aqs=chrome.1.69i60j69i59l2j0j69i60l4.3362j0j9&sourceid=chrome&ie=UTF-8">(USIL)</a>. Luego de unas clases, me di cuenta de que era una carrera mucho más fascinante de lo que en un inicio pensaba, puedo decir que fue una de las mejores decisiones que he realizado.
 
