@@ -1,7 +1,7 @@
 # danielsthefanoquichepalacios.github.io
 <html> 
 <body style="background-color:#A4FAF7;"><head>
-<title>Daniel Sthefano Quiche Palacios</title>
+
 </head>
 <h1 align="center" style="color:white;background-color:blue;font-size:400%;"> MI PRESENTACIÓN
 </h1>
