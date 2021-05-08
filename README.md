@@ -26,5 +26,13 @@ Actualmente estudio la carrera de Computer Science en la Universidad San Ignacio
       <li>Correo electrónico personal: dquich85@gmail.com</li>
         <li> Correo institucional: daniel.quiche@usil.pe </li>
 
+<h2 align="justify" style="color:#F75E17;font-size:300%;"> <b>Páginas de otros compañeros:</b>
+</h2>
+
+  <li> <a href="https://gabrielalvarado.me/">Gabriel Alvarado</a> </li>
+    <li> <a href="https://king-pacaya.github.io/">King Pacaya</a> </li>
+      <li> <a href="https://wolfzerov.github.io/WolfZero.github.io/">Franco Villalobos</a> </li>
+<li> <a href="https://www.claudiafernandarejasruiz.me/">Claudia Rejas</a> </li>       
+<li> <a href="http://ricardocoriatole.byethost6.com/?i=1#sec3">Ricardo Corihuamani</a> </li>
 <footer style="color:blue;font-size:150%;"> Computer Science - USIL 2021-1</FOOTER>
 
