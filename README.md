@@ -34,5 +34,47 @@ Actualmente estudio la carrera de Computer Science en la Universidad San Ignacio
       <li> <a href="https://wolfzerov.github.io/WolfZero.github.io/">Franco Villalobos</a> </li>
 <li> <a href="https://www.claudiafernandarejasruiz.me/">Claudia Rejas</a> </li>       
 <li> <a href="http://ricardocoriatole.byethost6.com/?i=1#sec3">Ricardo Corihuamani</a> </li>
+  <li> <a href="http://adrianpinado.me/">Adrián Pinado</a> </li>
+  <li> <a href="https://jobasi128.github.io/">Jonathan Barzola</a> </li>
+    <li> <a href="https://skeletus.github.io/">Jesús Arias</a> </li>
+      <li> <a href="https://claudiafernandarejasruiz.me/">Claudia Rejas </a> </li>
+<li> <a href="https://www.jesusalonsosalazarmallqui.me/">Jesus Alonso Salazar Mallqui </a> </li>
+<li> <a href="https://www.diegoalonsomiguelortegaaquino.me/">Diego Ortega </a> </li>
+  <li> <a href="https://www.brayanelmercampossanchez.me/">Brayan Campos </a> </li>
+    <li> <a href="http://patriciogabrielramosmantari.me/">Patricio Ramos</a> </li>
+  <li> <a href="https://angiemichellemontoyarocca.github.io/">Angie Montoya </a> </li>
+  <li> <a href="https://electroscopic-place.000webhostapp.com/">Eduardo Bautista </a> </li>
+    <li> <a href="https://mateobernabehuarcayamelgarejo.me/">Mateo Huarcaya</a> </li>
+      <li> <a href="https://andreaabigailcuevasvasquez00.000webhostapp.com/index.html">Andrea Cuevas </a> </li>
+        <li> <a href="https://juandediosalvarez.me/">Juan Alvarez </a> </li>
+        <li> <a href="https://practical-franklin-d0e378.netlify.app/">Laleska Arroyo</a> </li>
+  <li> <a href="https://kevinrobertyanezagurto.me/">Kevin Yañez </a> </li>
+    <li> <a href="https://www.enmamilagroscondormedina.me/">Enma Cóndor</a> </li>
+      <li> <a href="https://www.fabianimanolojedavalero.me/">Fabian Ojeda</a> </li>
+        <li> <a href="https://biancagonzalesrequejo.github.io/BiancaGonzalesRequejoDayanne/">Bianca Gonzales</a> </li>
+          <li> <a href="http://sebastianmoralescardoso.me/">Sebastián Morales</a> </li>
+          <li> <a href="https://rocac.github.io/">Roberto Nuñez</a> </li>
+          <li> <a href="https://danielatorres14.github.io/">Daniela Torres </a> </li>
+   <li> <a href="https://joseoviedoar.github.io/github.io/">José Oviedo</a> </li>
+   <li> <a href="https://electroscopic-place.000webhostapp.com/"> Eduardo Bautista </a> </li>
+   <li> <a href="https://arnoldpajueloaraujo.me/"> Arnold Pajuelo </a> </li>
+   <li> <a href="https://anderson22campos.github.io/Blog-Personal/"> Anderson Campos</a> </li>
+   <li> <a href="https://alexanderdp345.github.io/KEVIN-ALEXANDER-DURAND-PIZARRO/">Kevin Durand</a> </li>
+   <li> <a href="https://fundacionbj.000webhostapp.com/">Adrian Loza</a> </li>
+   <li> <a href="https://mosaic-circuitries.000webhostapp.com/">Cinthia Ochoa</a> </li>
+   <li> <a href="https://airton-mendoza.github.io/airtonmendoza/">Airton Mendoza </a> </li>
+   <li> <a href="https://parislorenzo.github.io/">Paris Lorenzo </a> </li>
+   <li> <a href="http://italoacostabonija.me/italoacosta.github.io/">Italo Acosta </a> </li>
+   <li> <a href="https://record-dishes.000webhostapp.com/">Rogger Yañez </a> </li>
+   <li> <a href="https://fundacionbj.000webhostapp.com/">Adrian Lozano </a> </li>
+   <li> <a href="https://angello5.github.io/Angello-Marcelo-Llerena-Gomez/">Angello Llerena </a> </li>
+   <li> <a href="http://eviediaz.me/">Evie Díaz</a> </li>
+   <li> <a href="https://loxxrm.github.io/Joaquin-Alonso-Rojas-Morales/">Joaquín Rojas </a> </li>
+   <li> <a href="https://leonardomanuelcalderongabriel.000webhostapp.com/">Leonardo Calderón</a> </li>
+     <li> <a href="https://852456luis852456.github.io/luis-angel-/">Luis Patiño</a> </li>
+     <li> <a href="https://lmiaul.github.io/Mauricio-Fabian-Sandoval-Arrieta/">Mauricio Sandoval </a> </li>
+     <li> <a href="https://electroscopic-place.000webhostapp.com/ ">Eduardo Bautista </a> </li>
+
+
 <footer style="color:blue;font-size:150%;"> Computer Science - USIL 2021-1</FOOTER>
 
