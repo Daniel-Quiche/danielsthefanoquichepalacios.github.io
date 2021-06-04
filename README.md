@@ -49,7 +49,7 @@ Actualmente estudio la carrera de Computer Science en la Universidad San Ignacio
         <li> <a href="https://juandediosalvarez.me/">Juan Alvarez </a> </li>
         <li> <a href="https://practical-franklin-d0e378.netlify.app/">Laleska Arroyo</a> </li>
   <li> <a href="https://kevinrobertyanezagurto.me/">Kevin Yañez </a> </li>
-    <li> <a href="https://www.enmamilagroscondormedina.me/">Enma Cóndor</a> </li>
+    <li> <a href="https://enmamilagroscondormedina.000webhostapp.com/">Enma Cóndor</a> </li>
       <li> <a href="https://www.fabianimanolojedavalero.me/">Fabian Ojeda</a> </li>
         <li> <a href="https://biancagonzalesrequejo.github.io/BiancaGonzalesRequejoDayanne/">Bianca Gonzales</a> </li>
           <li> <a href="http://sebastianmoralescardoso.me/">Sebastián Morales</a> </li>
